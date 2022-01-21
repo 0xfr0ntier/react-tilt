@@ -1,7 +1,8 @@
 # React.js - Tilt.js
 
-![Travis CI](https://travis-ci.org/jonathandion/react-tilt.svg?branch=master)
+Recommended to use this forked version, due to the depreicated code in the original repo.
 
+![Travis CI](https://travis-ci.org/jonathandion/react-tilt.svg?branch=master)
 
 ![react-tilt demo gif](https://github.com/jonathandion/react-tilt/blob/master/demo.gif)
 
